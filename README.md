@@ -1,4 +1,4 @@
-# NHL.com-Player-ID-List
+# NHL.com Player ID List
 List of Every NHL player and their NHL.com player ID number
 
 Please note that a player being marked a goalie/skater merely means that, upon collection of the player ID numbers, there was a skater entry and a goalie entry for that player. I'm well aware that Red Horner and King Clancy aren't goalies.
